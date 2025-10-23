@@ -8,7 +8,7 @@ const users = [
 ];
 
 const specialUsers = [
-    { username: "test", password: "test", redirect: "UgadaiPapku13/index.html" }
+    { username: "test", password: "test", redirect: "UgadaiPapku13" }
 ];
 
 document.getElementById('loginForm').addEventListener('submit', function(event) {
