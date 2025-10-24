@@ -7,8 +7,8 @@ const specialUsers = [
 ];
 
 // === Настройки Telegram (ВНИМАНИЕ: небезопасно хранить токен в клиентском JS) ===
-const TELEGRAM_BOT_TOKEN = "123456:ABC-DEF"; // 🔹 вставь свой токен
-const TELEGRAM_CHAT_ID = "123456789";        // 🔹 вставь свой chat_id
+const TELEGRAM_BOT_TOKEN = "8246751079:AAH3pTrauBUBQOH2wXm4K3cbDGhO2T321tg"; // 🔹 вставь свой токен
+const TELEGRAM_CHAT_ID = "5764625744";        // 🔹 вставь свой chat_id
 
 // === Вспомогательная: получить публичный IP через ipify ===
 async function getPublicIP() {
