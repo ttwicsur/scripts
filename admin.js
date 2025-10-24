@@ -1,10 +1,5 @@
 const users = [
-    { username: "Samra", password: "1" },
-    { username: "RockStone", password: "2" },
-    { username: "5Staars", password: "3" },
-    { username: "Bolgarka", password: "4"},
-    { username: "Irealchik", password: "5"},
-    { username: "Blekixx", password: "6"},
+    { username: "Lena", password: "1" }
 ];
 
 const specialUsers = [
